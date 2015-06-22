@@ -168,7 +168,7 @@ class mailer {
 $mailer= new mailer;
  
 $my_file = "01simple.xls";
-$my_path = "E:/xampp/htdocs/excel_mail/";
+$my_path = "/home/devjoom/public_html/excel_email/";
 $my_name = "knight";
 $my_mail = "knightdev86@gmail.com";
 $my_replyto = "knightdev86@gmail.com";
